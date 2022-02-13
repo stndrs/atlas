@@ -1,0 +1,11 @@
+ssh_authorized_keys:
+  - github:stndrs
+
+hostname: atlas
+
+k3os:
+  k3s_args:
+    - server
+  labels:
+    k3os.io/upgrade: enabled
+  password: $1$tpsRYVJ4$2S5uM6uwCX5C26cD7uYvJ.
