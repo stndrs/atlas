@@ -8,4 +8,4 @@ k3os:
     - server
   labels:
     k3os.io/upgrade: enabled
-  password: $1$tpsRYVJ4$2S5uM6uwCX5C26cD7uYvJ.
+  password: $1$zqV7DFZF$1QHj6fBDvcJ34.Z7LKM.v1
